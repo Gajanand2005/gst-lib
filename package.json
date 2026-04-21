@@ -1,6 +1,6 @@
 {
   "name": "gagan-gst-calculator-lib",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Advanced GST calculator library for Node.js with invoice & PDF support",
   "main": "src/index.js",
   "scripts": {
@@ -21,10 +21,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Gajanand2005/gagan-gst-calculator-lib.git"
+    "url": "https://github.com/Gajanand2005/gst-lib.git"
   },
   "bugs": {
-    "url": "https://github.com/Gajanand2005/gagan-gst-calculator-lib/issues"
+    "url": "https://github.com/Gajanand2005/gst-lib/issues"
   },
-  "homepage": "https://github.com/Gajanand2005/gagan-gst-calculator-lib#readme"
+  "homepage": "https://github.com/Gajanand2005/gst-lib#readme"
 }
