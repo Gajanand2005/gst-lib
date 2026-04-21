@@ -1,0 +1,20 @@
+{
+  "name": "gagan-gst-calculator-lib",
+  "version": "1.0.2",
+  "description": "Advanced GST calculator libery for node.js",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [
+    "[gst",
+    "tax",
+    "invoice",
+    "india]"
+  ],
+  "author": "gagan",
+  "license": "MIT",
+  "dependencies": {
+    "pdfkit": "^0.18.0"
+  }
+}
